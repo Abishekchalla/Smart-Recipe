@@ -1,5 +1,3 @@
-# Smart-Recipe
-Image-to-Recipe Generation with Dietary Preferences
 # Smart Recipe: Image-to-Recipe Generation with Dietary Preferences
 
 Smart Recipe is an AI-powered application that lets users upload a **food image** and receive a **personalized recipe** tailored to their **dietary preferences** (e.g., no nuts, low sugar, low fat, etc.). Unlike generic AI-generated recipes, this system combines **trusted data sources**, **vector search**, and **fine-tuned models** to ensure **reliable and customized** recipe results.
